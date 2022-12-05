@@ -1,4 +1,5 @@
 import React, {useState, useEffect} from "react";
+import styled from 'styled-components';
 import axios from 'axios';
 import "./App.css";
 //https://api.nasa.gov/planetary/apod?api_key=OX73QYdPNAYcYXP2nF9IsEc4VbMT3GF6mxUxRH23*//
